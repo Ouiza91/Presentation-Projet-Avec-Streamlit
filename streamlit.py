@@ -247,7 +247,7 @@ elif page== pages[5]:
 elif page== pages[6]:
 
     st.write(" * Mettre en application et de nous familiariser avec certaines notions d'intelligence artficielle étudiées lors de la formation.")
-    st.write(" * Grace à l'utilisation de tchniques avancées de l'IA, on a pu construire un systéme intelligent qui sépare les personnes en tranches de crédit.")
+    st.write(" * Grace à l'utilisation de techniques avancées de l'IA, on a pu construire un systéme intelligent qui sépare les personnes en tranches de crédit.")
 
    
 
