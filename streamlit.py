@@ -27,7 +27,7 @@ from sklearn.metrics import (
 from sklearn.model_selection import train_test_split, GridSearchCV
 import streamlit as st 
 
-df= pd.read_csv("/Users/kiki-wiwi/Downloads/archive (3)/train.csv")
+df= pd.read_csv("train.csv")
 
 st.title("Classification des personnes en tranches de crédit grâce à l'IA")
 st.subheader("Auteur: Ouiza MEBARKI")
